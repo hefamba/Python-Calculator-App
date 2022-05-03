@@ -1,0 +1,10 @@
+enter num
+
+5
+
+5 * 4 * 3 * 2 * 1 = 
+
+enter a num
+10
+
+print("The Factorial of 10 is: 3628800)
